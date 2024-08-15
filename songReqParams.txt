@@ -1,0 +1,19 @@
+_title, sn: Song Identifier
+tt: Track Title / name
+ry: Release Year
+dn: Duration / Song Length (in seconds)
+sib, sid, sig, siv: Instrument to use (Values: Guitar, Bass, Drum, Keyboard, Vocals)
+qi: Various Metadata?. JSON encoded string, parse and retrieve {"preview": {"starttime" : (float)}}
+ins: Object / Array, displays difficulties
+    pg: "Pad" Guitar
+    pb: "Pad" Bass
+    pd: "Pad" Drums
+    vl: Vocals
+    gr: Plastic guitar controller
+    ba: Plastic guitar controller (Bass)
+    dr: Plastic drum controller
+mt: Metronome / BPM
+mu: Data File to download (url)
+an: Artist name
+ar: Age Rating (E for Everyone, T for Teen, etc)
+au: Album Art to download (url). CONVERT JPG TO PNG!!!

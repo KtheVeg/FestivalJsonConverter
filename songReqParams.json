@@ -1,0 +1,20 @@
+{
+    "_title": "string",
+    "track": {
+    "tt": "string",
+    "ry": "number",
+    "dn": "number",
+    "sib": "string",
+    "sid": "string",
+    "sig": "string",
+    "qi": "string",
+    "sn": "string",
+    "siv": "string",
+    "ins": "object",
+    "mt": "number",
+    "mu": "string",
+    "an": "string",
+    "ar": "string",
+    "au": "string"
+    }
+}
